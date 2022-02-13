@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "newLine": "LF",
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "target": "es6",
+    "esModuleInterop": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "include": [
+    "./src/**/*",
+    "./config/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

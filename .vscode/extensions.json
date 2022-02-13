@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"irongeek.vscode-env",
+		"bierner.comment-tagged-templates",
+		"esbenp.prettier-vscode",
+		"jvitor83.typings-autoinstaller",
+		"digitalbrainstem.javascript-ejs-support",
+		"amatiasq.sort-imports"
+	]
+}
