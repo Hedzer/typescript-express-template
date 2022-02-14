@@ -1,5 +1,5 @@
 {
-  "name": "simple-typescript-express-template",
+  "name": "typescript-express-template",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hedzer/simple-typescript-express-template"
+    "url": "https://github.com/Hedzer/typescript-express-template"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hedzer/simple-typescript-express-template/issues"
+    "url": "https://github.com/Hedzer/typescript-express-template/issues"
   },
-  "homepage": "https://github.com/Hedzer/simple-typescript-express-template#readme",
+  "homepage": "https://github.com/Hedzer/typescript-express-template#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
